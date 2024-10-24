@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "am.h": "c",
+        "types.h": "c",
+        "stdint.h": "c",
+        "amdev.h": "c",
+        "klib.h": "c",
+        "klib-macros.h": "c",
+        "stddef.h": "c",
+        "kernel.h": "c",
+        "common.h": "c",
+        "pthread.h": "c",
+        "slab.h": "c",
+        "assert.h": "c",
+        "stdbool.h": "c",
+        "devices.h": "c",
+        "os.h": "c",
+        "bitmap.h": "c",
+        "x86_64-qemu.h": "c",
+        "type_traits": "c",
+        "test.h": "c",
+        "typeinfo": "c"
+    }
+}

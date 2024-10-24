@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2105af17-5740-4616-8b03-f297670771db" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/../abstract-machine/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract-machine/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract-machine/am/src/native/mpe.c" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract-machine/am/src/native/mpe.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract-machine/am/src/native/platform.h" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract-machine/am/src/native/platform.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract-machine/am/src/x86/qemu/trap32.S" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract-machine/am/src/x86/qemu/trap32.S" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract-machine/klib/src/stdio.c" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract-machine/klib/src/stdio.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract-machine/klib/src/string.c" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract-machine/klib/src/string.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract-machine/scripts/native.mk" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract-machine/scripts/native.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract-machine/scripts/platform/qemu.mk" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract-machine/scripts/platform/qemu.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract-machine/scripts/x86_64-qemu.mk" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract-machine/scripts/x86_64-qemu.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/kernel.h" beforeDir="false" afterPath="$PROJECT_DIR$/framework/kernel.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/framework/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/common.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/common.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/devices.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/devices.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/os.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/os.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dev/dev_video.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/dev/dev_video.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/os.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/os.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pmm.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/pmm.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oslabs.mk" beforeDir="false" afterPath="$PROJECT_DIR$/../oslabs.mk" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2jeENTluSXiYOYBfzhFRBHNdYiM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="2105af17-5740-4616-8b03-f297670771db" name="变更" comment="" />
+      <created>1721739102353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721739102353</updated>
+      <workItem from="1721739104538" duration="97000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

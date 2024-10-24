@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/",
+                "/usr/lib/gcc/x86_64-linux-gnu/11/include/",
+                "/home/haruhi/os-workbench/abstract-machine/am/include/",
+                "/home/haruhi/os-workbench/abstract-machine/klib/include/",
+                "/home/haruhi/os-workbench/kernel/framework/"
+            ],
+            "defines": [],
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
